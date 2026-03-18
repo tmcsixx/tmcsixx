@@ -1,6 +1,6 @@
 <h1>Hi, I'm Harold!</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/joshmadakor1/LABURL)
 
